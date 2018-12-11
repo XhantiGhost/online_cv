@@ -23,4 +23,15 @@
 
 • Find the file in your folder and open it in Chrome to see if it's saved 
 
- #
+ # Tools used
+• HTML  
+
+• CSS
+
+• CSS Grid
+
+•Responsive design
+
+• Bulma
+
+• A little bit of Javascript
