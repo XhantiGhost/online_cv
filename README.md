@@ -23,6 +23,13 @@
 
 • Find the file in your folder and open it in Chrome to see if it's saved 
 
+<<<<<<< HEAD
+ #tools used
+
+ *HTML
+ *CSS
+ *BULMA THE FRAMEWORK
+=======
  # Tools used
 • HTML  
 
@@ -37,3 +44,4 @@
 • A little bit of Javascript
 
 # 
+>>>>>>> 961caf2d98158423e0962e4f1aab36700ff46c67
